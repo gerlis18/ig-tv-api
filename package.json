@@ -1,0 +1,20 @@
+{
+  "name": "spa-tv",
+  "version": "1.0.0",
+  "description": "App para mejorar presentaciones del tv",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Intergrupo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "compression": "^1.7.0",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
